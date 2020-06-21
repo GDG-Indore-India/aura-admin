@@ -1,5 +1,5 @@
 # Aura Admin
-<img src="https://github.com/GDG-Jalandhar/WebsiteData/blob/master/promotion%20images/Aura%20Admin.png?raw=true" width="100%">
+<img src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/Aura%20Admin%20V-3.1.png" width="100%">
 Version: 3.1.1
 
 [Click Here](https://auradmin.web.app/)
@@ -23,6 +23,7 @@ The template is created by [GDG Jalandhar](https://meetup.com/GDG-Jalandhar/) te
 | **Easy in management** | Store all the data in Cloud Firestore |
 | **Trigger Push Notification** | Trigger Push Notification to Aura Main |
 | **User Management** | Role based Authentication for the Team |
+| **Connect** | Team Member can communicate in Group |
 | **Usability** | Any Tech Communities can use |
 
 
@@ -182,6 +183,7 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 | --- | --- |
 | GDG Jalandhar | [View Now](https://gdgjalandhar.com) |
 | DSC NSEC | [View Now](https://dscnsec.com) |
+| DSC VJIT | [View Now](https://dsc-vjit-admin.now.sh) |
 
 ## Facing Any Problem or need any Help?
 Write us in [issues](https://github.com/issues) section. Our team will try solve your issue within 10-12 hours.<br>
